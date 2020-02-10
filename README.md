@@ -5,7 +5,7 @@
   Photon Hash Buster
   <br>
 </h1>
-<br>
+
 ## Support:
 
 Python 3.7^
