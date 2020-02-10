@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/RaidTheWeb/Photon"><img src="https://i.ibb.co/HYMZ2kG/logo.png" alt="Photon"></a>
   <br>
-  Photon Hash Buster
+  Photon
   <br>
 </h1>
 
