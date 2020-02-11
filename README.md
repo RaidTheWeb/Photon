@@ -28,4 +28,4 @@ root@kali: ~ # git clone https://github.com/RaidTheWeb/Photon.git
 
 ### Alternatives:
 
-Alternatively Run Photon Online at [https://photon.raidtheweb.repl.run](https://photon.raidtheweb.repl.run)
+Alternatively Run Photon Online at [https://photon.raidtheweb.ml/hosted](https://photon.raidtheweb.ml/hosted)
